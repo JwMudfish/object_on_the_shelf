@@ -1,0 +1,26 @@
+<annotation>
+	<folder>saved_images</folder>
+	<filename>box_2020-09-18-17:46:22.jpg</filename>
+	<path>/home/perth/Desktop/personal_project/imgdata_scraper/saved_images/box_2020-09-18-17:46:22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>object</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>88</ymin>
+			<xmax>1286</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>
